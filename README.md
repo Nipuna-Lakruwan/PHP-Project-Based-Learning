@@ -38,4 +38,4 @@ Contributions are welcome! If you have any improvements or new projects to add, 
 
 ## License
 
-This repository is licensed under the MIT License. If you have any questions or feedback, please open an issue or contact the repository owner.
+This repository is licensed under the Apache License. If you have any questions or feedback, please open an issue or contact the repository owner.
